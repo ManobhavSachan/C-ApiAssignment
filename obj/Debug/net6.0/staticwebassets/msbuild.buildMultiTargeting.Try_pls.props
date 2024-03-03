@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Try_pls.props" />
+</Project>
